@@ -1,0 +1,31 @@
+
+body
+{
+    background-color: lightgrey;
+    
+}
+
+.digitalClock
+{
+    text-align: center;
+    padding: 50px;
+    
+}
+#clockTitle
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#dateDisplay 
+{
+    font-size: 50 px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.digitalClock #timeDisplay
+{
+   font-size: 100px;
+   color:lightseagreen;
+   text-align: center;
+   padding: 50px;
+}
